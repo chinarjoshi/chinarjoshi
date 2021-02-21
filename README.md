@@ -2,7 +2,7 @@
 A videogame made with Pygame
 
 #### I'm currently learning about:
-Flask and Django applications
+Deploying Flask and Django applications
 
 <hr>
 
