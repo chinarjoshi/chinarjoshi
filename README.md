@@ -10,10 +10,8 @@ Flask and Django applications
 
 Email: chinarjoshi7@gmail.com
 
-[Website](https://chinarjoshi.github.io)
-
+[Github Pages](https://chinarjoshi.github.io)
 [Linkedin](https://www.linkedin.com/in/chinarjoshi/)
-
 [Devpost](https://devpost.com/chinarjoshi)
 
 
