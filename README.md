@@ -4,6 +4,8 @@ A videogame made with Pygame
 #### I'm currently learning about:
 Flask and Django applications
 
+<hr>
+
 #### How to reach me:
 Website: chinarjoshi.github.io
 
