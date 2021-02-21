@@ -1,4 +1,15 @@
-### Hi there 👋
+#### I'm currently working on:
+A videogame made with Pygame
+
+#### I'm currently learning about:
+Flask and Django applications
+
+#### How to reach me:
+Website: chinarjoshi.github.io
+Email: chinarjoshi7@gmail.com
+Linkedin: https://linkedin.com/chinarjoshi
+Devpost: https://devpost.com/chinarjoshi
+
 
 <!--
 **chinarjoshi/chinarjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
