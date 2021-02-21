@@ -7,7 +7,7 @@ Flask and Django applications
 <hr>
 
 #### How to reach me:
-Website: chinarjoshi.github.io
+Website: https://chinarjoshi.github.io
 
 Email: chinarjoshi7@gmail.com
 
