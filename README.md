@@ -1,8 +1,8 @@
 #### I'm currently working on:
-A videogame made with Pygame
+A movie matcher with a social aspect
 
 #### I'm currently learning about:
-Artificial intelligence and search algorithms
+Developing and deploying Django applications
 
 <hr>
 
