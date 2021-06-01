@@ -1,8 +1,8 @@
 #### I'm currently working on:
-A movie matcher with a social aspect
+iotools, intuitive tools for managing iot applications
 
 #### I'm currently learning about:
-Developing and deploying Django applications
+Developing and deploying Flask applications
 
 <hr>
 
