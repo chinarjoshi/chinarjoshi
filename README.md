@@ -1,5 +1,5 @@
 #### I'm currently working on:
-iotools, intuitive tools for managing iot applications
+IoTools, intuitive tools for managing iot applications
 
 #### I'm currently learning about:
 Developing and deploying Flask applications
