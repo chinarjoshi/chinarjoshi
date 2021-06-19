@@ -16,6 +16,6 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinarjosh
 
 Email: chinarjoshi7@gmail.com
 
-[Github Pages](https://chinarjoshi.github.io) |
+[Website](https://chinarjoshi.github.io) |
 [Linkedin](https://www.linkedin.com/in/chinarjoshi/) |
 [Devpost](https://devpost.com/chinarjoshi)
