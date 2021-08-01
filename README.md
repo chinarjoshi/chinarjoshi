@@ -1,8 +1,8 @@
 #### I'm currently working on:
-IoTools, intuitive tools for managing IoT applications
+HOLO, a holographic display for interactively rendering 3D CAD models
 
 #### I'm currently learning about:
-Developing and deploying Flask applications
+Supervised learning with tf.keras
 
 <hr>
 
