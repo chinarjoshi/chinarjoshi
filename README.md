@@ -33,4 +33,4 @@ Email: chinarjoshi7@gmail.com
 #### My Stats:
 
 [![Chinar's github stats](https://github-readme-stats.vercel.app/api?username=chinarjoshi&show_icons=true&hide_border=true&theme=github_dark)](https://chinarjoshi.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinarjoshi&layout=compact&hide_border=true&exclude_repo=chinarjoshi.github.io,.emacs.d&theme=github_dark)](https://chinarjoshi.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinarjoshi&layout=compact&hide_border=true&exclude_repo=chinarjoshi.github.io,.emacs.d&theme=github_dark)](https://chinarjoshi.com/portfolio)
