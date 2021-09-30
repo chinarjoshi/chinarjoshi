@@ -5,8 +5,8 @@
  - A physics-based game that simulates the universe. Players' objective is to colonize the galaxy with humankind. Collaboration with @thearyanmittal and @jeffreycshelton.
 
 #### I'm currently learning about:
+ - Systems programming in Rust
  - Machine learning with TensorFlow
- - Django development
  - UNIX-based operating systems
 
 <hr>
