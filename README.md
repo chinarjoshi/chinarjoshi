@@ -2,11 +2,10 @@
 
 #### I'm currently working on:
  - HOLO, a device that breaks the paradigm of representing 3 dimensional objects in 2 dimensions through an optical illusion
- - A physics-based game that simulates the universe. Players' objective is to colonize the galaxy with humankind. Collaboration with @thearyanmittal and @jeffreycshelton.
 
 #### I'm currently learning about:
  - Systems programming in Rust
- - Machine learning with TensorFlow
+ - Data structures and algorithms
  - UNIX-based operating systems
 
 <hr>
