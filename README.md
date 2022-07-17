@@ -1,4 +1,4 @@
-### Chinar Joshi
+### Hey, I'm Chinar Joshi
 
 #### I'm currently working on:
  - Acronym: A smart alias management system to shorten your shell commands
