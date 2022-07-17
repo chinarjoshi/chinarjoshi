@@ -1,18 +1,18 @@
 ### Chinar Joshi
 
 #### I'm currently working on:
- - HOLO, a device that breaks the paradigm of representing 3 dimensional objects in 2 dimensions through an optical illusion
+ - Acronym: A smart alias management system to shorten your shell commands
 
 #### I'm currently learning about:
- - Systems programming in Rust
- - Data structures and algorithms
- - UNIX-based operating systems
+ - Being a good rustacean
+ - Making a great portfolio website
+ - Deep learning with pytorch
 
 <hr>
 
 #### How to reach me:
 
-Email: chinarjoshi7@gmail.com
+Email: chinarhjoshi@gmail.com
 
 [Website](https://chinarjoshi.com) |
 [Linkedin](https://www.linkedin.com/in/chinarjoshi/) |
