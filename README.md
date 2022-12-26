@@ -1,15 +1,3 @@
-### Hey, I'm Chinar Joshi
-
-#### I'm currently working on:
- - Acronym: A smart alias management system to shorten your shell commands
-
-#### I'm currently learning about:
- - Being a good rustacean
- - Making a great portfolio website
- - Deep learning with pytorch
-
-<hr>
-
 #### How to reach me:
 
 Email: chinarhjoshi@gmail.com
