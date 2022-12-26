@@ -2,7 +2,7 @@
 
 Email: chinarhjoshi@gmail.com
 
-[Website](https://chinarjoshi.com) |
+[Resume](https://drive.google.com/file/d/1o9blEs50r_dUyEKMCUok_CDIN4Gwq9gu/view?usp=sharing) |
 [Linkedin](https://www.linkedin.com/in/chinarjoshi/) |
 [Devpost](https://devpost.com/chinarjoshi)
 
